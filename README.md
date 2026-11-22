@@ -1,7 +1,13 @@
-## Hola, soy Jhosed 
+<p align="center">
+  <img src="img/jhosed.png" width="170" alt="Foto de Jhosed">
+</p>
 
-Estudiante de Contaduría Pública y creador de **Mi Kit**, una familia de apps gratis para el día a día.
-Funcionan desde el celular o el computador, sin registro, y tus archivos no salen de tu dispositivo.
+<h2 align="center">Hola, soy Jhosed</h2>
+
+<p align="center">
+  Estudiante de Contaduría Pública y creador de <b>Mi Kit</b>, una familia de apps gratis para el día a día.<br>
+  Funcionan desde el celular o el computador, sin registro, y tus archivos no salen de tu dispositivo.
+</p>
 
 ### Mis apps
 
@@ -22,4 +28,4 @@ Funcionan desde el celular o el computador, sin registro, y tus archivos no sale
   </tr>
 </table>
 
-📍 Cumaral, Meta, Colombia
+<p align="center">📍 Cumaral, Meta, Colombia</p>
