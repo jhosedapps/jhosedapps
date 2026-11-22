@@ -1,4 +1,4 @@
-## Hola, soy Jhosed 👋
+## Hola, soy Jhosed 
 
 Estudiante de Contaduría Pública y creador de **Mi Kit**, una familia de apps gratis para el día a día.
 Funcionan desde el celular o el computador, sin registro, y tus archivos no salen de tu dispositivo.
